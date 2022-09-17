@@ -14,7 +14,7 @@ I have created many websites using __*WordPress*__ but This is the first ever we
 ### Live Preview
 ---
 
-[![Project Demo](https://img.shields.io/badge/Deployed%20Link-Click%20Here%20for%20%20Live%20Link-yellowgreen?style=flat-square&logo=Linkfire)](https://foodrestaruanthomepage.netlify.app/)
+[![Project Demo](https://img.shields.io/badge/Deployed%20Link%20-Click%20Here%20for%20%20Live%20Link-green?style=flat-square&logo=Linkfire)](https://foodrestaruanthomepage.netlify.app/)
 
 
 ### Things i have learned working on this project
@@ -26,14 +26,7 @@ I have created many websites using __*WordPress*__ but This is the first ever we
 3. I think i have improved my googling since i used google alot whenever i was stuck in this project.
 4. While doing any project i should take one thing at a time.
 5. I shouldn't hurry while doing projects.
-6. Navigation bar using CSS & flex
-CSS Position and Z indexing
-Button Styling
-hover anchor tag elements
-accessing nth child of list elements
-Class, Tag and attribute based selection of HTML elements.
-Unorder list
-Media queries for Small, Medium and Large devices
+
    
 ### Time took to finish the project
 ---
