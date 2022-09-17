@@ -1,5 +1,5 @@
 
-# HTML & CSS PROJECT 1 ![Project badge](https://img.shields.io/badge/PROJECT%201-HTML%20%26%20CSS-orange)
+# HTML & CSS PROJECT 2 Food Restaurant Home Page ![Project badge](https://img.shields.io/badge/PROJECT%202-HTML%20%26%20CSS-orange)
 
 I have created many websites using __*WordPress*__ but This is the first ever website I have written code from scratch using `HTML&CSS` only.
 
@@ -11,10 +11,10 @@ I have created many websites using __*WordPress*__ but This is the first ever we
 >![Project 1 Screenshot](website%20thumbnail.png)
 
 
-### Deployed Link
+### Live Preview
 ---
 
-[Project 1](https://streetstylelandingpage.netlify.app/ "Live preview")
+[![Project Demo](https://img.shields.io/badge/Deployed%20Link-Click%20Here%20for%20%20Live%20Link-yellowgreen?style=flat-square&logo=Linkfire)](https://foodrestaruanthomepage.netlify.app/)
 
 
 ### Things i have learned working on this project
@@ -26,11 +26,19 @@ I have created many websites using __*WordPress*__ but This is the first ever we
 3. I think i have improved my googling since i used google alot whenever i was stuck in this project.
 4. While doing any project i should take one thing at a time.
 5. I shouldn't hurry while doing projects.
+6. Navigation bar using CSS & flex
+CSS Position and Z indexing
+Button Styling
+hover anchor tag elements
+accessing nth child of list elements
+Class, Tag and attribute based selection of HTML elements.
+Unorder list
+Media queries for Small, Medium and Large devices
    
 ### Time took to finish the project
 ---
 
-It took me 5 hours to finish this project since it was my first ever project in html & css and it was totally worth it.
+It took me 3 hours to finish this project.
 
 ### About Me
 ---
@@ -57,3 +65,4 @@ I'm Naveen Kumar and i am aspiring to be a Full Stack Web Developer.
 ### Feedback
 ---
 If you have any feedback, please reach out to me at naveensurya064@gmail.com
+
