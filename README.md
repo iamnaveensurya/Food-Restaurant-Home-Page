@@ -5,19 +5,19 @@ I have created many websites using __*WordPress*__ but This is the first ever we
 
 >This project as of now isn't responsive but it will be responsive in coming weeks.
 
-### Screenshot
+### Screenshot :
 ---
 
 >![Project 1 Screenshot](website%20thumbnail.png)
 
 
-### Live Preview
+### Live Preview :
 ---
 
 [![Project Demo](https://img.shields.io/badge/Deployed%20Link%20-Click%20Here%20for%20%20Live%20Link-green?style=flat-square&logo=Linkfire)](https://foodrestaruanthomepage.netlify.app/)
 
 
-### Things i have learned working on this project
+### Things i have learned working on this project :
 
 ---
 1. I learned a lot about css selectors and how they works [read my selectors blog post](https://naveensurya.hashnode.dev/the-ultimate-guide-to-css-selectors "The CSS Position Property Explained with Examples")
@@ -28,12 +28,12 @@ I have created many websites using __*WordPress*__ but This is the first ever we
 5. I shouldn't hurry while doing projects.
 
    
-### Time took to finish the project
+### Time took to finish the project :
 ---
 
 It took me 3 hours to finish this project.
 
-### About Me
+### About Me :
 ---
 I'm Naveen Kumar and i am aspiring to be a Full Stack Web Developer.
 
@@ -55,7 +55,7 @@ I'm Naveen Kumar and i am aspiring to be a Full Stack Web Developer.
 
 
 
-### Feedback
+### Feedback :
 ---
 If you have any feedback, please reach out to me at naveensurya064@gmail.com
 
